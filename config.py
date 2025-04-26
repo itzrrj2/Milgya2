@@ -1,7 +1,7 @@
 import os
 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://shresthstakeyt:pkLkVmVw2xCkdtvD@tera0.kbiwslv.mongodb.net/?retryWrites=true&w=majority&appName=tera0")
-DB_NAME = os.environ.get("DATABASE_NAME", "teraxbot")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://coolmicks112:adkhJm5kBrbhhm6N@delall.3xszyma.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DATABASE_NAME", "Delall")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "bharatlinks.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "442622b64c0c0829663e547bd8c5d685b9c3773c")
@@ -13,7 +13,7 @@ TUT_VID = os.environ.get("TUT_VID", "https://t.me/sr_trbx_tutorial") # shareus k
 PREMIUM_URL = os.environ.get("PREMIUM_URL", "https://t.me/srxpremiumBOT/?start=purchase")
 FREE_DOWNLOADS = int(os.environ.get("FREE_DOWNLOADS", 1))  # Allow 3 free downloads
 SHORTLINK_HOURS = int(os.environ.get("SHORTLINK_HOURS", 12))
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "Mill_Gyabot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "Mill_ggyabot")
 
 # Required channel details
 REQUIRED_CHANNELS = {
