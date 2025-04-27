@@ -45,8 +45,8 @@ async def get_direct_link(url: str) -> Optional[Dict[str, Any]]:
     Returns a dictionary with direct_link, thumb, and file_name if successful, None otherwise.
     """
     apis_to_try = [
-        f"https://terabox-pika.vercel.app/?url={url}",
-        f"https://ashlynn.serv00.net/techcodertera.php?url={url}"
+        f"https://ashlynnteraaaaa.ashlynn.workers.dev/?url={url}",
+        f"https://terabox-pika.vercel.app/?url={url}"
     ]
     
     for api_url in apis_to_try:
